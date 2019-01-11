@@ -5,7 +5,8 @@
             "name": "CodeLens (Launch) - Launcher",
             "request": "launch",
             "mainClass": "app.Launcher",
-            "projectName": "Connect4"
+            "projectName": "Connect4",
+            "console":"integratedTerminal"
         }
     ]
 }
